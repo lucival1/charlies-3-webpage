@@ -1,0 +1,13 @@
+In your first assignment, you were tasked with developing a website for a business. The
+technologies which were used focused around basic HTML/CSS. During this process
+you would have seen that attempting to make a website look good can be a difficult
+task.
+To make our websites more interactive, JavaScript can help us. In the lectures, we
+talked about JavaScript and the benefits that libraries such as jQuery UI have during the
+development process.
+The business owner of the business you built the website for, has asked you to take the
+website a step further, and create an online ordering system which will allow customers
+to purchase products (be it hotel rooms, or gifts, or whichever industry you are working
+for).
+The business owner has specified that he would like it to be as flashy as possible, and
+utilise all of the JavaScript technologies that are currently available.
